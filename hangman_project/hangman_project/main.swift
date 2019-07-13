@@ -5,7 +5,7 @@
 //  Created by Jason Ruan on 7/12/19.
 //  Copyright © 2019 Jason Ruan. All rights reserved.
 //
-
+```swift
 import Foundation
 
 func generateAnswer() -> [Character] {
@@ -162,4 +162,4 @@ func gameStart() {
 }
 
 gameStart()
-
+```
